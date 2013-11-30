@@ -1,1 +1,1 @@
-Noteo Facebook Application
+Noteo
