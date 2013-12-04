@@ -1,1 +1,1 @@
-Noteo & Heroku
+Noteo Goes React
